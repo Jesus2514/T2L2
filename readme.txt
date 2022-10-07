@@ -13,5 +13,6 @@
 8: cat demo2.txt | grep Línia 
 8: cat demo2.txt | grep Totes 
 
-9:
+9: cat demo2.txt | grep línia | wc -l
+
 
