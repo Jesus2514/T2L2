@@ -10,3 +10,6 @@
 
 7: cat demo2.txt | grep blanc | wc -l
 
+8: cat demo2.txt | grep Línia | wc -l
+8: cat demo2.txt | grep Totes | wc -l
+
