@@ -15,4 +15,5 @@
 
 9: cat demo2.txt | grep línia | wc -l
 
+10: ls -l 
 
