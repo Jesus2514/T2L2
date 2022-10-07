@@ -7,3 +7,6 @@
 
 
 7:  cat demo2.txt | grep línia | wc -l
+
+7: cat demo2.txt | grep blanc | wc -l
+
